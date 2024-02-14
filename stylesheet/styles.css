@@ -1,0 +1,81 @@
+body {
+  font-family: "Roboto Slab", serif;
+}
+.wrapper {
+  background-color: #f8f9fa; /* Adjust the color as needed */
+}
+.nav-pills .nav-link {
+  color: black; /* Set text color to black */
+}
+
+.custom-btn {
+  border-radius: 70%; /* Cool border radius */
+}
+
+.nav-pills .nav-link i {
+  color: black; /* Set icon color to black */
+}
+.btn.btn-warning .nav-link {
+  color: white;
+}
+.custom-h1,
+.img-fluid {
+  box-shadow: 0 0 10px rgb(134, 74, 249, 0.7);
+}
+.btn.btn-warning .nav-item .nav-link i.fa-long-arrow-alt-right {
+  color: white; /* Set icon color to black */
+}
+.custom-card {
+  width: 125px;
+  box-shadow: 0 0 10px rgb(134, 74, 249, 0.7);
+}
+.custom-card:hover {
+  box-shadow: 0 0 20px rgb(134, 74, 249, 0.5); /* Slightly darker shadow on hover */
+}
+.card-body {
+  padding: 40px;
+}
+.card-title {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+.card-text {
+  font-size: 14px;
+}
+.row .col-md-1 {
+  margin-right: 35px; /* Adjust the value as needed */
+}
+.custom-card h5 {
+  color: #333; /* Darker color */
+}
+.custom-card p {
+  color: #1f2544;
+}
+.custom img {
+  height: 50px;
+  max-width: 100%;
+}
+.btn-primary,
+.btn-warning {
+  color: white !important;
+}
+video {
+  max-width: 100%; /* Ensure the video doesn't exceed its container's width */
+  height: 300px; /* Maintain aspect ratio */
+  display: block; /* Ensure the video is displayed as a block element */
+  box-shadow: 0 0 10px rgb(134, 74, 249, 0.7);
+}
+.diagonal-img {
+  transform: rotate(9deg); /* Rotate the image */
+  box-shadow: 0 0 10px rgb(134, 74, 249, 0.7);
+}
+.vidoe2 {
+  transform: rotate(11deg); /* Rotate the image */
+}
+.bg-gold {
+  background-color: #FFB000;
+}
+.bg-purple {
+  background-color: #192655;
+}
+
